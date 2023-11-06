@@ -1,0 +1,17 @@
+body > header {
+    background-color:red;
+    display:grid;
+    grid-template-rows:10vh
+}
+
+body > main {
+    background-color:green;
+    display:grid;
+    grid-template-rows:90vh
+}
+
+body > footer {
+    background-color:blue;
+    display:grid;
+    grid-template-rows:20vh
+}
